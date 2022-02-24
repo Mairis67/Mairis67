@@ -1,6 +1,6 @@
-### Hi there 👋, I am Mairis
+<h3 align="center">Hi there 👋, I am Mairis</h3>
 
-A PHP Developer. Professional experience with the technologies listed in the **toolbox** bellow
+<h2 align="center">A PHP Developer. Professional experience with the technologies listed in the **toolbox** bellow</h2>
 
 ---
 
