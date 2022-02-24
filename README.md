@@ -12,7 +12,7 @@ A PHP Developer. Professional experience with the technologies listed in the **t
 
 ### My top 3 projects that I am currently working on:
 
-<a href="https://github.com/Mairis67/FriendsApp">FriendshipApp</>
+<a href="https://github.com/Mairis67/FriendsApp">FriendshipApp</a>
 
 ---
 ### My Linkedin profile
