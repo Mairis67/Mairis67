@@ -1,4 +1,4 @@
-### Hi there 👋, I am Mairis Alksnis
+### Hi there 👋, I am Mairis
 
 A PHP Developer. Professional experience with the technologies listed in the **toolbox** bellow
 
