@@ -12,12 +12,23 @@ A PHP Developer. Professional experience with the technologies listed in the **t
 
 ### My top 3 projects that I am currently working on:
 
-<a href="https://github.com/Mairis67/FriendsApp">FriendshipApp</a>
+<a href="https://github.com/Mairis67/FriendsApp">Friendship App</a>
+
+<a href="https://github.com/Mairis67/PersonRegister">Person Register</a>
+
+<a href="https://github.com/Mairis67/Stock-API">Stock API</a>
 
 ---
+
 ### My Linkedin profile
 
 https://www.linkedin.com/in/mairis-alksnis/
+
+---
+
+### My Github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mairis67&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Mairis67/Mairis67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
