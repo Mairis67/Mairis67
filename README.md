@@ -2,6 +2,10 @@
 
 A PHP Developer. Professional experience with the technologies listed in the **toolbox** bellow
 
+<a href="https://www.linkedin.com/in/mairis-alksnis/" rel=nofollow">
+<img src="https://camo.githubusercontent.com/30ab6b2040dfad60d37abc4d806926e0fa65bf2b4a6e5a1d279fd9871c295bba/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d69636861656c2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6d61696b6c732d7a616c6b616c6e732f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-Mairis-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/mairis-alksnis/" style="max-width: 100%;">
+</a>
+
 ---
 
 🧰 Toolbox
