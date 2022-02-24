@@ -1,6 +1,6 @@
 <h3 align="center">Hi there 👋, I am Mairis</h3>
 
-<h3 align="center">A PHP Developer. Professional experience with the technologies listed in the <b>toolbox</> bellow</h3>
+<h3 align="center">A PHP Developer. Professional experience with the technologies listed in the toolbox bellow</h3>
 
 ---
 
@@ -12,11 +12,11 @@
 
 ### My top 3 projects that I am currently working on:
 
-<a href="https://github.com/Mairis67/FriendsApp">Friendship App</a>
+- <a href="https://github.com/Mairis67/FriendsApp">Friendship App</a>
 
-<a href="https://github.com/Mairis67/PersonRegister">Person Register</a>
+- <a href="https://github.com/Mairis67/PersonRegister">Person Register</a>
 
-<a href="https://github.com/Mairis67/Stock-API">Stock API</a>
+- <a href="https://github.com/Mairis67/Stock-API">Stock API</a>
 
 ---
 
