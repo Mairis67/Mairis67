@@ -12,7 +12,7 @@
 
 ### My top 3 projects that I am currently working on:
 
-- <a href="https://github.com/Mairis67/FriendsApp">Friendship App</a>
+- <a href="https://github.com/Mairis67/MiniFriendsApp">Mini Friends App</a>
 
 - <a href="https://github.com/Mairis67/PersonRegister">Person Register</a>
 
