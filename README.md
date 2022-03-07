@@ -16,7 +16,7 @@
 
 - <a href="https://github.com/Mairis67/PersonRegister">Person Register</a>
 
-- <a href="https://github.com/Mairis67/Stock-API">Stock API</a>
+- <a href="https://github.com/Mairis67/bookingApp">Booking App</a>
 
 ---
 
