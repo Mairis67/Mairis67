@@ -12,11 +12,11 @@
 
 ### My top 3 projects that I am currently working on:
 
-- <a href="https://github.com/Mairis67/FriendsApp">Friends App</a>
+- <a href="https://github.com/Mairis67/bookingApp">Booking App</a>
 
 - <a href="https://github.com/Mairis67/PersonRegister">Person Register</a>
 
-- <a href="https://github.com/Mairis67/bookingApp">Booking App</a>
+- <a href="https://github.com/Mairis67/FriendsApp">Mini Friends App</a>
 
 ---
 
