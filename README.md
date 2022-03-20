@@ -14,7 +14,7 @@
 
 - <a href="https://github.com/Mairis67/bookingApp">Booking App</a>
 
-- <a href="https://github.com/Mairis67/PersonRegister">Person Register</a>
+- <a href="https://github.com/Mairis67/productsApp">Products App</a>
 
 - <a href="https://github.com/Mairis67/FriendsApp">Mini Friends App</a>
 
