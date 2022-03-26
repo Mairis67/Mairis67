@@ -24,6 +24,8 @@
 
 https://www.linkedin.com/in/mairis-alksnis/
 
+<a href="mairis.alksnis@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 ---
 
 ### My Github stats
