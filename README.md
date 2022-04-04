@@ -26,7 +26,7 @@ https://www.linkedin.com/in/mairis-alksnis/
 
 ---
 
-### My Github stats
+<!-- ### My Github stats -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mairis67&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
