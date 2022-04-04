@@ -25,10 +25,10 @@
 https://www.linkedin.com/in/mairis-alksnis/
 
 ---
-
+<!-- 
 ### My Github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mairis67&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mairis67&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **Mairis67/Mairis67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
